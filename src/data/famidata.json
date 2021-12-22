@@ -1,0 +1,45 @@
+[
+  { "id": 1, "label": "K.K", "kinship": 0, "mamId": 2, "dadId": 3 },
+  {
+    "id": 2,
+    "label": "N.K",
+    "kinship": 1,
+    "mamId": 4,
+    "dadId": 5,
+    "childId": [{ "one": 1, "two": 8, "three": 9 }]
+  },
+  {
+    "id": 3,
+    "label": "Yo.S",
+    "kinship": 1,
+    "mamId": 6,
+    "dadId": 7,
+    "childId": [{ "1人目": 1, "2人目": 8, "3人目": 9 }]
+  },
+  {
+    "id": 4,
+    "label": "Mi.K",
+    "kinship": 2,
+    "childId": [{ "1人目": null, "2人目": null, "3人目": 2 }]
+  },
+  {
+    "id": 5,
+    "label": "H.K",
+    "kinship": 2,
+    "childId": [{ "1人目": null, "2人目": null, "3人目": 2 }]
+  },
+  {
+    "id": 6,
+    "label": "T.S",
+    "kinship": 2,
+    "childId": [{ "1人目": null, "2人目": 3 }]
+  },
+  {
+    "id": 7,
+    "label": "Yu.S",
+    "kinship": 2,
+    "childId": [{ "1人目": null, "2人目": 3 }]
+  },
+  { "id": 8, "label": "Ma.K", "kinship": 2, "mamId": 2, "dadId": 3 },
+  { "id": 9, "label": "N.K", "kinship": 2, "mamId": 2, "dadId": 3 }
+]
